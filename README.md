@@ -9,3 +9,7 @@
 
 * random
     > Random value generation.
+
+* convert
+    > Convert primitives to pointers to them
+
